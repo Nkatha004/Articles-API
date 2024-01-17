@@ -72,4 +72,4 @@ It is an articles API created using Laravel 10. It allows the user to perform al
 
 The API was tested using Postman to ensure the functionalities are in order.
 
-MySQL was used for storage in the database.
+MySQL was the database used for storage.
