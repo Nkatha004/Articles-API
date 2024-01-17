@@ -64,3 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## About the Project
+
+It is an articles API created using Laravel 10. It allows the user to perform all CRUD functionalities to the articles.
+
+The API was tested using Postman to ensure the functionalities are in order.
+
+MySQL was used for storage in the database.
